@@ -50,15 +50,14 @@ flask run
 # Jak dodać pylint:
 
 ```
-make lin
-```
-
-w przypadku problemów z make:
-```
 pip install pylint
 ```
 
 # Jak uruchomić pylint:
+
+```
+make lin
+```
 
 z cmd dla Windows:
 ```
